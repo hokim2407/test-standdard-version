@@ -18,3 +18,5 @@ jobs:
           token: ${{ secrets.TOKEN }}
           release-type: node
           package-name: release-please-action
+          pull-request-title-pattern: "release${scope}: ${component} ${version}"
+          pull-request-header: ":rocket: ${component} ${version} 릴리즈"
