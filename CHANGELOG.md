@@ -1,5 +1,19 @@
 # Changelog
 
+## [2.0.1](https://github.com/hokim2407/test-standdard-version/compare/v2.0.0...v2.0.1) (2023-06-01)
+
+
+### Features
+
+* 기본 브랜치 변경 ([1ce1c47](https://github.com/hokim2407/test-standdard-version/commit/1ce1c47125b2bc5e96ce518fbf67ed4780bc2553))
+* 라벨 변경 ([ad59c4e](https://github.com/hokim2407/test-standdard-version/commit/ad59c4e63621e04bf4a4518ce2a918c6aaf9d3fe))
+* 라벨 변경2 ([0021943](https://github.com/hokim2407/test-standdard-version/commit/00219436c458a869f7eb11eb2d330c7e4c23a168))
+
+
+### Miscellaneous Chores
+
+* release 2.0.1 ([242d642](https://github.com/hokim2407/test-standdard-version/commit/242d64245be31a7cba0c53070f860b39172eb7fe))
+
 ## 2.0.0 (2023-06-01)
 
 
