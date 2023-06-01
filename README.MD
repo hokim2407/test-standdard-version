@@ -1,0 +1,2 @@
+- https://github.com/google-github-actions/release-please-action
+- https://github.com/googleapis/release-please
