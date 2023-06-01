@@ -20,4 +20,4 @@ jobs:
           package-name: release-please-action
           pull-request-title-pattern: "release${scope}: ${component} ${version}"
           pull-request-header: ":rocket: 릴리즈 PR"
-          default-branch: release/${version}
+          label: release-note
