@@ -19,5 +19,5 @@ jobs:
           release-type: node
           package-name: release-please-action
           pull-request-title-pattern: "release${scope}: ${component} ${version}"
-          pull-request-header: ":rocket: 릴리즈 PR"
+          pull-request-header: ":rocket: 릴리즈 ${{ steps.release.outputs.major }}.${{ steps.release.outputs.minor }} PR"
           labels: release-note
