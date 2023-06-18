@@ -1,0 +1,2 @@
+- https://github.com/conventional-changelog/standard-version
+- 더이상 사용되지 않음
