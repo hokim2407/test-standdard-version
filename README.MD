@@ -1,0 +1,2 @@
+- https://github.com/semantic-release/semantic-release
+- 릴리즈 과정 자동화
