@@ -1,4 +1,31 @@
 {
+  "analyzeCommits": {
+    "preset": "eslint",
+    "releaseRules": [
+      {
+        "tag": "version",
+        "release": "major"
+      },
+      {
+        "tag": "realase",
+        "release": "minor"
+      },
+      {
+        "subject": "*",
+        "release": "patch"
+      },
+      {
+        "scope": "no-release",
+        "release": false
+      }
+    ],
+    "parserOpts": {
+      "noteKeywords": [
+        "BREAKING CHANGE",
+        "BREAKING CHANGES"
+      ]
+    }
+  },
   "branches": ["main"],
   "plugins": [
     "@semantic-release/commit-analyzer",
