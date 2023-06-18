@@ -2,7 +2,8 @@
   "branches": ["main"],
   "plugins": [
     ["@semantic-release/npm", {
-      "npmPublish": false,
+      "npmPublish": false
     }],
+    "@semantic-release/changelog"
   ]
 }
