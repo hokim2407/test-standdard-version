@@ -1,11 +1,6 @@
 {
   "name": "release-test",
   "version": "0.0.0-development",
-  "release": {
-    "branches": [
-      "main"
-    ]
-  },
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
     "semantic-release": "^21.0.5"
